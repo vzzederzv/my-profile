@@ -1,4 +1,4 @@
-# Hello, I'm [Tuan Anh] 👋
+# Hello, I'm Tuan Anh 👋
 
 <img src="https://raw.githubusercontent.com/vzzederzv/vzzederzv/master/statics/media/Banner.png" alt="Profile banner">
 
