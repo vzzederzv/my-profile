@@ -1,5 +1,7 @@
 # Hello, I'm [Tuan Anh] 👋
 
+<img src="https://raw.githubusercontent.com/vzzederzv/vzzederzv/master/statics/media/Banner.png" alt="Profile banner">
+
 I'm a passionate Software Engineer with expertise in Web Development. Seeking to leverage my technical expertise and problem-solving abilities to contribute to the success of innovative projects as a Fullstack Developer. Passionate about delivering high-quality solutions and staying at the forefront of technological advancements.
 
 ## 🚀 Skills
@@ -14,17 +16,32 @@ I'm a passionate Software Engineer with expertise in Web Development. Seeking to
 
 ## 🔧 Tools 
 
-- Django
-- Docker
-- Gin-Gonic
-- JHipster
-- KeyCloak
-- MySQL
-- ReactJS
-- Redux
-- Spring Framework
-- PostgreSQL
-- SonarQube
+```yaml
+zedediah:
+    frontend:
+        - Ant Design
+        - Axios
+        - Material UI
+        - React Hook Form
+        - React.JS
+        - Redux
+    backend:
+        - Django
+        - Gin-Gonic
+        - Spring Framework
+    databases:
+        - MySQL
+        - PostgreSQL
+        - Redis
+    others:
+        - AWS
+        - Docker
+        - KeyCloak
+        - Kubernetes
+        - Jhipster
+        - NATS
+        - SonarQube
+```
 
 ## 📫 Contact
 
