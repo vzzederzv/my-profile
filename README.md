@@ -21,15 +21,18 @@ zedediah:
     frontend:
         - Ant Design
         - Axios
-        - Material UI
+        - MUI
         - React Hook Form
         - React.JS
-        - Redux
+        - Redux/Redux Toolkit
+        - Next.JS
     backend:
         - Django
         - Gin-Gonic
         - Spring Framework
+        - Quarkus Framework
     databases:
+        - BadgerDB
         - MySQL
         - PostgreSQL
         - Redis
@@ -40,6 +43,7 @@ zedediah:
         - Kubernetes
         - Jhipster
         - NATS
+        - RabbitMQ
         - SonarQube
 ```
 
